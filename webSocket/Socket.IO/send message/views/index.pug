@@ -1,0 +1,18 @@
+doctype
+html
+    head
+        meta(charset='utf-8')
+        title GIF 채팅방
+    body
+        div F12를 눌러 console 탭과 network 탭을 확인하세요.
+        script(src = '/socket.io/socket.io.js')
+        script.
+            var socket = io.connect('http://localhost:8000', {
+               path: '/socket.io',
+                // 폴링 연결을 하지않고 웹 소켓만 사용하고 싶을 때 사용하는 옵션
+                transports : ['websocket']
+            });
+            socket.on('news', function (data) {
+                console.log(data);
+                socket.emit('reply', 'Hello Node.JS');
+            });
