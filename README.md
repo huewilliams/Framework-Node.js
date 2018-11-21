@@ -27,6 +27,7 @@ node를 이용한 http 웹 서버 개발 내용
 ws모듈과 Socket.IO를 이용한 실시간 통신에 대한 내용  
 * [WebSocket이란?](https://github.com/huewilliams/study-note/blob/master/webSocket.md) 
 * [ws모듈로 웹소켓 사용하기](https://github.com/huewilliams/node.js-by-server/tree/master/webSocket/ws%20module/message%20send)  
+* [Socket.IO로 웹소켓 사용하기](https://github.com/huewilliams/node.js-by-server/tree/master/webSocket/Socket.IO/send%20message)  
 
 ## Node.js란?
 * NodeJS 는 구글 크롬의 자바스크립트 엔진 (V8 Engine) 에 기반해 만들어진 서버 사이드 플랫폼
