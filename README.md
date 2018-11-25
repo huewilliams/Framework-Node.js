@@ -25,6 +25,7 @@ Mongo DB CRUD 사용법과 ODM인 mongoose 사용법 정리
   
 ### crawling  
 노드로 크롤링을 해보자  
+* html parsing
 * [xml parsing](https://github.com/huewilliams/node.js-by-server/blob/master/crawling/xml%20parser/weather.js)  
 ### example project  
 노드를 이용하여 만든 다양한 프로젝트에 대한 내용  
