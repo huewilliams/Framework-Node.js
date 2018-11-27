@@ -20,6 +20,9 @@ node를 이용한 http 웹 서버 개발 내용
 ### Express.js  
 노드의 웹 프레임워크인 Express와 Express로 DB 연동, Passport, Multer, 웹 API 서버 등의 내용  
   
+### MySQL  
+MySQL CRUD 사용법과 ORM인 Sequelize 사용법 정리
+  
 ### MongoDB  
 Mongo DB CRUD 사용법과 ODM인 mongoose 사용법 정리
   
