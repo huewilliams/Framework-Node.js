@@ -24,7 +24,8 @@ node를 이용한 http 웹 서버 개발 내용
 MySQL CRUD 사용법과 ORM인 Sequelize 사용법 정리
   
 ### MongoDB  
-Mongo DB CRUD 사용법과 ODM인 mongoose 사용법 정리
+Mongo DB CRUD 사용법과 ODM인 mongoose 사용법 정리  
+* [mongoose example](https://github.com/huewilliams/node.js-by-server/tree/master/mongoDB/mongoose/user%20and%20comment)
   
 ### crawling  
 노드로 크롤링을 해보자  
