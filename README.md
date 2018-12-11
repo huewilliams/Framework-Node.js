@@ -1,6 +1,8 @@
 # learning-Node.js
 Javascript runtime, Non-blocking, Single thread
 
+![logo](./img/logo.png)
+
 ## directory structure  
 ### nodeJS 란?  
 nodeJS가 무엇인지, 노드의 내부 구조, 비동기 구현, 싱글스레드에 대한 내용
