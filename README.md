@@ -42,6 +42,9 @@ ws모듈과 Socket.IO를 이용한 실시간 통신에 대한 내용
 * [ws모듈로 웹소켓 사용하기](https://github.com/huewilliams/node.js-by-server/tree/master/webSocket/ws%20module/message%20send)  
 * [Socket.IO로 웹소켓 사용하기](https://github.com/huewilliams/node.js-by-server/tree/master/webSocket/Socket.IO/send%20message)  
 
+### solving error  
+node.js를 하면서 해결한 에러 모음  
+* [EADDRINUSE](https://github.com/huewilliams/node.js-by-server/blob/master/solving%20error/EADDRINUSE.md)
 ## Node.js란?
 * NodeJS 는 구글 크롬의 자바스크립트 엔진 (V8 Engine) 에 기반해 만들어진 서버 사이드 플랫폼
 * 2009년에 Ryan Dahl에 의해 개발
@@ -62,6 +65,3 @@ ws모듈과 Socket.IO를 이용한 실시간 통신에 대한 내용
   Node.js 어플리케이션엔 데이터 버퍼링이 없고, 데이터를 chunk로 출력합니다.  
   + 라이센스  
   Node.js 는 MIT License가 적용되어있습니다.
-  
-  ## repo history 
-  * 2018.11.20 repository의 대규모 refactoring 을 했다. 기존에 디렉토리를 분별하지 않고 올려서 정리가 안되어 있었던 부분들을 모두 삭제하고 정리된 디렉토리 구조로 바꾸게 되었다. 대략적인 디렉토리 구조를 README.md 에 명시했다.
