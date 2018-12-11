@@ -18,6 +18,7 @@ NPM에 대한 내용과 NPM에 등록된 유용한 모듈들의 사용법과 간
   
 ### http server with node  
 node를 이용한 http 웹 서버 개발 내용
+* [http.createServer](https://github.com/huewilliams/node.js-by-server/blob/master/http%20server%20with%20node/velopert/create%20server/app.js)
   
 ### Express.js  
 노드의 웹 프레임워크인 Express와 Express로 DB 연동, Passport, Multer, 웹 API 서버 등의 내용  
