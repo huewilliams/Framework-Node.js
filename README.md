@@ -22,6 +22,7 @@ node를 이용한 http 웹 서버 개발 내용
   
 ### Express.js  
 노드의 웹 프레임워크인 Express와 Express로 DB 연동, Passport, Multer, 웹 API 서버 등의 내용  
+* [cookie example](https://github.com/huewilliams/node.js-by-server/tree/master/Express.JS/cookie/favorite)  
   
 ### MySQL  
 MySQL CRUD 사용법과 ORM인 Sequelize 사용법 정리
