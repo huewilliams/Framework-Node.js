@@ -6,7 +6,7 @@ Javascript runtime, Non-blocking, Single thread
 ## directory structure  
 ### nodeJS 란?  
 nodeJS가 무엇인지, 노드의 내부 구조, 비동기 구현, 싱글스레드에 대한 내용
-  
+* [REPL terminal](https://github.com/huewilliams/node.js-by-server/blob/master/what%20is%20nodeJS/velopert/REPLterminal/002.%20REPL%20Terminal.md)  
 ### 노드 내장 객체  
 global, console, 타이머, __filename, __dirname, module, exports, process 등  
   
