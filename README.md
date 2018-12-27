@@ -32,6 +32,9 @@ MySQL CRUD 사용법과 ORM인 Sequelize 사용법 정리
 Mongo DB CRUD 사용법과 ODM인 mongoose 사용법 정리  
 * [mongoose example](https://github.com/huewilliams/node.js-by-server/tree/master/mongoDB/mongoose/user%20and%20comment)
   
+### Mocha
+자기가 작성한 코드를 테스트 하는 라이브러리이다. 간단한 소개와 사용법 예제를 정리해 놓았다.
+  
 ### crawling  
 노드로 크롤링을 해보자  
 * html parsing
