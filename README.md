@@ -42,6 +42,8 @@ Mongo DB CRUD 사용법과 ODM인 mongoose 사용법 정리
 * [xml parsing](https://github.com/huewilliams/node.js-by-server/blob/master/crawling/xml%20parser/weather.js)  
 ### example project  
 노드를 이용하여 만든 다양한 프로젝트에 대한 내용  
+* [펀딩과 기부의 결합 Cause API 서버](https://github.com/huewilliams/Cause_Backend)
+* [우주선 아케이드 게임 Boostrun API 서버](https://github.com/I-Answer/Boost_Run_Backend)
   
 ### webSocket  
 ws모듈과 Socket.IO를 이용한 실시간 통신에 대한 내용  
