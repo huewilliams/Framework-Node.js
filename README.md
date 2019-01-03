@@ -54,6 +54,7 @@ ws모듈과 Socket.IO를 이용한 실시간 통신에 대한 내용
 ### solving error  
 node.js를 하면서 해결한 에러 모음  
 * [EADDRINUSE](https://github.com/huewilliams/node.js-by-server/blob/master/solving%20error/EADDRINUSE.md)
+* [request entity too large (limit 설정방법)](https://github.com/huewilliams/everything-of-node.js/blob/master/solving%20error/request%20entity%20too%20large.md)
 ## Node.js란?
 * NodeJS 는 구글 크롬의 자바스크립트 엔진 (V8 Engine) 에 기반해 만들어진 서버 사이드 플랫폼
 * 2009년에 Ryan Dahl에 의해 개발
