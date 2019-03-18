@@ -39,6 +39,7 @@ Mongo DB CRUD 사용법과 ODM인 mongoose 사용법 정리
 * [assert 를 이용한 테스트](https://github.com/huewilliams/everything-of-node.js/blob/master/mocha/example/assert.js)
 * [should 를 이용한 테스트](https://github.com/huewilliams/everything-of-node.js/blob/master/mocha/example/should.js)
 * [supertest 를 이용한 REST api 테스트](https://github.com/huewilliams/everything-of-node.js/blob/master/mocha/example/supertest.js)
+* [JWT api 테스트(cannabis casino)](https://github.com/huewilliams/everything-of-node.js/blob/master/mocha/jwt%20test/jwtTest.js)
   
 ### crawling  
 노드로 크롤링을 해보자  
