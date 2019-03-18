@@ -33,8 +33,12 @@ Mongo DB CRUD 사용법과 ODM인 mongoose 사용법 정리
 * [mongoose example](https://github.com/huewilliams/node.js-by-server/tree/master/mongoDB/mongoose/user%20and%20comment)
   
 ### Mocha
+![mocha](./img/mocha.png)  
 자기가 작성한 코드를 테스트 하는 라이브러리이다. 간단한 소개와 사용법 예제를 정리해 놓았다.
 * [함수 하나 테스트](https://github.com/huewilliams/everything-of-node.js/tree/master/mocha/function%20test)
+* [assert 를 이용한 테스트](https://github.com/huewilliams/everything-of-node.js/blob/master/mocha/example/assert.js)
+* [should 를 이용한 테스트](https://github.com/huewilliams/everything-of-node.js/blob/master/mocha/example/should.js)
+* [supertest 를 이용한 REST api 테스트](https://github.com/huewilliams/everything-of-node.js/blob/master/mocha/example/supertest.js)
   
 ### crawling  
 노드로 크롤링을 해보자  
