@@ -1,0 +1,7 @@
+{
+    "secret" : "jwt-secret-by-huewilliams",
+    "refreshTokenSecret" : "refresh-secret-by-huewilliams",
+    "port" : 3000,
+    "tokenLife" : 900,
+    "refreshTokenLife" : 86400
+}
